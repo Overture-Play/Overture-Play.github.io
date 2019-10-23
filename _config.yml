@@ -18,31 +18,31 @@ excerpt_separator: "[-----]"
 
 # mode: dev
 mode: product
-url: https://unifreak.github.io/
+url: https://Overture-Play.github.io/
 devurl: http://localhost:4000/
-name: UniFreak
-title: UniFreak | Another yet unique freak is showing a freakshow
+name: Freak
+title: Freak | Another yet unique freak is showing a freakshow
 description: "Fanghao's personal weblog, on coding or such stuff"
 
 my:
     displayName: UniFreak
-    realName: FangHao
-    realName_cn: 方浩
+    realName: LiJunPei
+    realName_cn: 
     jobTitle: "PHP Coder"
     contact:
-        qq: 744910240
-        email: fanghao90s@gmail.com
-        github: http://www.github.com/UniFreak
+        qq: 1319617379
+        email: 1319617379@qq.com
+        github: http://www.github.com/Overture-Play
         qzone: http://744910240.qzone.qq.com
         pinterest: https://www.pinterest.com/miblah/
-        tel: 153 6999 7084
+        tel: 13676266727
         address:
             country: China
-            state: Beijing
-            city: Beijing
-            distribute: ChaoYang
+            state: GuangDong
+            city: GuangDong
+            distribute: JiangMen
             postcode: 000000
-            cell: "Wangxin Garden"
+            cell: "000*000"
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
         backend: ["PHP", "Python", "Shell", MySQL", "Redis", "Regex", "Laravel", "Lumen"]
