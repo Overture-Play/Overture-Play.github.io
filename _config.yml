@@ -20,15 +20,15 @@ excerpt_separator: "[-----]"
 mode: product
 url: https://Overture-Play.github.io/
 devurl: http://localhost:4000/
-name: Freak
+name: 技术专栏
 title: Tech Features | Another yet unique freak is showing a freakshow
 description: "Li Junpei's personal blog about technology and so on"
 
 my:
-    displayName: UniFreak
+    displayName: LiJunPei
     realName: LiJunPei
     realName_cn: 
-    jobTitle: "PHP Coder"
+    jobTitle: "Attack"
     contact:
         qq: 1319617379
         email: 1319617379@qq.com
